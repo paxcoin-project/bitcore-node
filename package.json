@@ -9,7 +9,8 @@
     "bugs": {
         "url": "https://github.com/paxcoin-project/bitcore-node/issues"
     },
-    "contributors": [{
+    "contributors": [
+        {
             "name": "Christopher Jeffrey"
         },
         {
